@@ -7,8 +7,8 @@ A simple and clean system monitor skin for Rainmeter.
 
 
 ## Minimum Requirements:
-Windows 7 or higher.
-Rainmeter 4.0 (r2746) or higher.
+- Windows 7 or higher.
+- Rainmeter 4.1 (r2822 or higher).
 
 
 ## What's included:
