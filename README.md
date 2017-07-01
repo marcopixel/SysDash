@@ -29,7 +29,6 @@ The media player module supports all major media players, including full **Spoti
 
 - You need at least **Rainmeter 4.1 (r2822) or higher** to get all features of this skin. You can find the newest version on https://www.rainmeter.net/
 - After installation you can access the settings by right-clicking on one of the skins then clicking on Open Settings.
-- Due to limitations of Rainmeter/the plugin used for the visualization the complete audio output of your system will be shown on the visualizer. For the best experience only play music. This is something I can’t fix.
 - If there are no skins loaded, you have to reinstall the skin and check if the layout is getting loaded after install.
 
 ## Getting started
