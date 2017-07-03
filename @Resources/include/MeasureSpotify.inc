@@ -3,7 +3,6 @@ Measure=Plugin
 Plugin=NowPlaying
 Playername=Spotify
 PlayerType=State
-UpdateDivider=10
 
 [MeasureStateButton]
 Measure=Plugin
@@ -29,7 +28,7 @@ UpdateDivider=100
 Measure=Plugin
 Plugin=SpotifyPlugin
 Type=AlbumArt
-Res=640
+Res=120
 CoverPath=#@#images\coverSpotify.png
 UpdateDivider=50
 
@@ -49,7 +48,7 @@ UpdateDivider=10
 Measure=Plugin
 Plugin=SpotifyPlugin
 Type=Progress
-UpdateDivider=10
+UpdateDivider=5
 
 [MeasureProgress]
 Measure=Calc

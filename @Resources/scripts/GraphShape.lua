@@ -9,7 +9,7 @@ function Initialize()
     Graph_Step = GraphHeight / 100 -- 0 to 100 scale
     Graph_Gap = GraphWidth / TotalData
 
-    Resolution = 4
+    Resolution = 2
 
     DataMeasure = SKIN:GetMeasure(InputMeasure)
 		OutputGraph = SELF:GetOption("OutputGraph")
