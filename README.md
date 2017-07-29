@@ -19,6 +19,7 @@ A simple and clean system monitor skin for Rainmeter.
 - Network info (additional variant with just ping and up/download)
 - Media player
 - Weather skin
+- CPU & GPU temperatures
 - Recycle bin
 - Volume slider
 
@@ -66,6 +67,6 @@ You can also request new features and help them develop by joining the discussio
 - **Spotify Plugin** - .raptor from the Rainmeter Forums
 - **Google Play Music Desktop Player Plugin** - @tjhrulz 
 - **Fonts** - Uni Sans & Uni Neue from fontfabric.com
-- **Icons** - Feather icons (https://github.com/colebemis/feather)
+- **Icons** - Feather icons (https://github.com/colebemis/feather) & [Jelle-Dekkers](http://jelle-dekkers.deviantart.com/) (GPU icon)
 - **Wallpaper** - .37.VII from @bo0xVn
 - Thanks to **@khanhas** for providing his graph code and @undefinist for the refresher code.

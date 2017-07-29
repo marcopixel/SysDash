@@ -35,13 +35,24 @@ Y=5R
 AntiAlias=1
 Text="Media Player"
 LeftMouseDownAction=[!ActivateConfig "#ROOTCONFIG#\settings" "mediaplayer.ini"]
+[MeterTemperatures]
+Meter=String
+InlineSetting=Face | Uni Neue
+InlineSetting2=Size | 14
+InlineSetting3=Weight | 100
+InlineSetting4=Color | 255,255,255,150
+X=20
+Y=5R
+AntiAlias=1
+Text="System temperatures"
+LeftMouseDownAction=[!ActivateConfig "#ROOTCONFIG#\settings" "temperatures.ini"]
 [MeterMenuDividier]
 Meter=Image
 SolidColor=255,255,255,100
 X=20
 Y=15R
 H=1
-W=170
+W=178
 [MeterClose]
 Meter=String
 InlineSetting=Face | Uni Neue
