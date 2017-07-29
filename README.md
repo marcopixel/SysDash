@@ -19,6 +19,7 @@ A simple and clean system monitor skin for Rainmeter.
 - Network info (additional variant with just ping and up/download)
 - Media player
 - Weather skin
+- CPU & GPU temperatures
 - Recycle bin
 - Volume slider
 
