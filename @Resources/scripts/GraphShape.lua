@@ -32,7 +32,7 @@ function Graph()
                 line = '0,'..(-DataTable[1]*Graph_Step)
             end
         for j = 1, Resolution do
-            line = line .. ' | Lineto '..(Graph_Gap * (i-1) + Graph_Gap * j/Resolution)..','..(-CubicInterpolate(DataTable[i==1 and 1 or i-1],DataTable[i],DataTable[i+1],DataTable[i==TotalData-1 and i+1 or i+2],j/Resolution) * Graph_Step)
+            line = line .. ' | Lineto '..(Graph_Gap * (i-1) + Graph_Gap * j/Resolution)..','..(-CubicInterpolate(DataTable[i==1 and 1 or i-1],DataTable[i],DataTable[i+1],DataTable[i==TotalData-1 and i+1 or i+1],j/Resolution) * Graph_Step)
         end
     end
 		SKIN:Bang('[!SetOption '..OutputGraph..' Graph1 "'..line..' | ClosePath 0"]'

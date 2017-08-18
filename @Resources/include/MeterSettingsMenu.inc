@@ -24,6 +24,17 @@ Y=5R
 AntiAlias=1
 Text="Styling"
 LeftMouseDownAction=[!ActivateConfig "#ROOTCONFIG#\settings" "styling.ini"]
+[MeterDrives]
+Meter=String
+InlineSetting=Face | Uni Neue
+InlineSetting2=Size | 14
+InlineSetting3=Weight | 100
+InlineSetting4=Color | 255,255,255,150
+X=20
+Y=5R
+AntiAlias=1
+Text="Drives"
+LeftMouseDownAction=[!ActivateConfig "#ROOTCONFIG#\settings" "drives.ini"]
 [MeterMediaPlayer]
 Meter=String
 InlineSetting=Face | Uni Neue

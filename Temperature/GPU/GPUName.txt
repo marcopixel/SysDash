@@ -1,0 +1,4 @@
+Name                       
+Radeon RX 580 Series       
+Intel(R) HD Graphics 4000  
+
