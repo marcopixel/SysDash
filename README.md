@@ -68,5 +68,6 @@ You can also request new features and help them develop by joining the discussio
 - **Google Play Music Desktop Player Plugin** - @tjhrulz 
 - **Fonts** - Uni Sans & Uni Neue from fontfabric.com
 - **Icons** - Feather icons (https://github.com/colebemis/feather) & [Jelle-Dekkers](http://jelle-dekkers.deviantart.com/) (GPU icon)
+- **Weather Icons** - Climacons (http://adamwhitcroft.com/climacons/)
 - **Wallpaper** - .37.VII from @bo0xVn
 - Thanks to **@khanhas** for providing his graph code and @undefinist for the refresher code.
