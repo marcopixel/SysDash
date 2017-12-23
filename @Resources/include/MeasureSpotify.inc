@@ -24,6 +24,13 @@ Type=ArtistName
 Substitute="":"#NoArtistNameText#"
 UpdateDivider=100
 
+[MeasureAlbum]
+Measure=Plugin
+Plugin=SpotifyPlugin
+Type=AlbumName
+Substitute="":"#NoArtistNameText#"
+UpdateDivider=100
+
 [MeasureCover]
 Measure=Plugin
 Plugin=SpotifyPlugin
