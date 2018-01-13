@@ -1,4 +1,4 @@
-![SysDash Screenshot](https://raw.githubusercontent.com/MarcoPixel/marcopixel.github.io/master/img/sysDash.png "SysDash Screenshot")
+![SysDash Screenshot](http://marcopixel.eu/img/sysDash.png "SysDash Screenshot")
 
 # sysDash
 [![GitHub release](https://img.shields.io/github/release/MarcoPixel/sysDash.svg?colorB=97CA00?label=version)](https://github.com/MarcoPixel/sysDash/releases/latest) [![Github All Releases](https://img.shields.io/github/downloads/MarcoPixel/sysDash/total.svg?colorB=97CA00)](https://github.com/MarcoPixel/sysDash/releases) [![GitHub stars](https://img.shields.io/github/stars/MarcoPixel/sysDash.svg?colorB=007EC6)](https://github.com/MarcoPixel/sysDash/stargazers)  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MarcoPixel/sysDash/master/LICENSE)
@@ -8,7 +8,7 @@ A simple and clean system monitor skin for Rainmeter.
 
 ## Minimum Requirements:
 - Windows 7 or higher.
-- Rainmeter 4.1 (r2822 or higher).
+- Rainmeter 4.2 (r3018 or higher).
 
 
 ## What's included:
@@ -28,7 +28,7 @@ The media player module supports all major media players, including full **Spoti
 ## Important notes
 
 
-- You need at least **Rainmeter 4.1 (r2822) or higher** to get all features of this skin. You can find the newest version on https://www.rainmeter.net/
+- You need at least **Rainmeter 4.2 (r3018) or higher** to get all features of this skin. You can find the newest version on https://www.rainmeter.net/
 - After installation you can access the settings by right-clicking on one of the skins then clicking on Open Settings.
 - If there are no skins loaded, you have to reinstall the skin and check if the layout is getting loaded after install.
 
@@ -69,5 +69,5 @@ You can also request new features and help them develop by joining the discussio
 - **Fonts** - Uni Sans & Uni Neue from fontfabric.com
 - **Icons** - Feather icons (https://github.com/colebemis/feather) & [Jelle-Dekkers](http://jelle-dekkers.deviantart.com/) (GPU icon)
 - **Weather Icons** - Climacons (http://adamwhitcroft.com/climacons/)
-- **Wallpaper** - .37.VII from @bo0xVn
+- **Wallpaper** - [Mariusz Potocki](http://potocki.com.pl/outdoor/)
 - Thanks to **@khanhas** for providing his graph code and @undefinist for the refresher code.
