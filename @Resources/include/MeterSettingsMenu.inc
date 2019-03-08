@@ -1,6 +1,6 @@
 [MeterShape]
 Meter=Shape
-Shape=Rectangle 0,0,700,500,5 | Fill Color 10,10,10,225 | StrokeWidth 0
+Shape=Rectangle 0,0,700,750,5 | Fill Color 10,10,10,225 | StrokeWidth 0
 
 [MeterGeneral]
 Meter=String
