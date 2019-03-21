@@ -63,8 +63,9 @@ You can also request new features and help them develop by joining the discussio
 #### [Click here to get to the open issues](https://github.com/MarcoPixel/SysDash/issues).
 
 ### Credits
-- **Rainmeter Skin** - @MarcoPixel 
+- **Rainmeter Skin** - @MarcoPixel
 - **Spotify Plugin** - .raptor from the Rainmeter Forums
+- **HWiNFO Plugin** - stangowner (https://www.hwinfo.com/forum/Thread-Rainmeter-plug-in-for-HWiNFO-3-2)
 - **Google Play Music Desktop Player Plugin** - @tjhrulz 
 - **Fonts** - Uni Sans & Uni Neue from fontfabric.com
 - **Icons** - Feather icons (https://github.com/colebemis/feather) & [Jelle-Dekkers](http://jelle-dekkers.deviantart.com/) (GPU icon)
