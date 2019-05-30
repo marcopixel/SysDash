@@ -1,6 +1,6 @@
 [MeterShape]
 Meter=Shape
-Shape=Rectangle 0,0,700,750,5 | Fill Color 10,10,10,225 | StrokeWidth 0
+Shape=Rectangle 0,0,700,775,5 | Fill Color 10,10,10,225 | StrokeWidth 0
 
 [MeterGeneral]
 Meter=String
@@ -55,8 +55,8 @@ InlineSetting4=Color | 255,255,255,150
 X=20
 Y=5R
 AntiAlias=1
-Text="System temperatures"
-LeftMouseDownAction=[!ActivateConfig "#ROOTCONFIG#\settings" "temperatures.ini"]
+Text="HWiNFO"
+LeftMouseDownAction=[!ActivateConfig "#ROOTCONFIG#\settings" "hwinfo.ini"]
 [MeterMenuDividier]
 Meter=Image
 SolidColor=255,255,255,100

@@ -13,7 +13,7 @@ A simple and clean system monitor skin for Rainmeter.
 
 ## What's included:
 - Clock skin (24hr/12hr)
-- CPU usage
+- CPU & GPU usage
 - RAM usage
 - Hard drive usage
 - Network info (additional variant with just ping and up/download)
