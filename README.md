@@ -23,7 +23,7 @@ A simple and clean system monitor skin for Rainmeter.
 - Recycle bin
 - Volume slider
 
-The media player module supports all major media players, including full **Spotify** (thanks to .raptor for the Spotify plugin) and **Google Play Music Desktop Player** (thanks to @tjhrulz for his plugin) support.
+The media player module supports all major media players, including **Spotify** (via WebNowPlaying), **Google Play Music Desktop Player** and **WebNowPlaying** (thanks to @tjhrulz for his plugin) support.
 
 ## Important notes
 
@@ -63,10 +63,10 @@ You can also request new features and help them develop by joining the discussio
 #### [Click here to get to the open issues](https://github.com/MarcoPixel/SysDash/issues).
 
 ### Credits
-- **Rainmeter Skin** - @MarcoPixel
-- **Spotify Plugin** - .raptor from the Rainmeter Forums
+- **Rainmeter Skin** - **[@marcopixel](https://github.com/marcopixel) 
 - **HWiNFO Plugin** - stangowner (https://www.hwinfo.com/forum/Thread-Rainmeter-plug-in-for-HWiNFO-3-2)
-- **Google Play Music Desktop Player Plugin** - @tjhrulz 
+- **Google Play Music Desktop Player Plugin** - **[@tjhrulz](https://github.com/tjhrulz/GPMDP-Plugin)**
+- **WebNowPlaying Plugin** - **[@tjhrulz](https://github.com/tjhrulz/WebNowPlaying)**
 - **Fonts** - Uni Sans & Uni Neue from fontfabric.com
 - **Icons** - Feather icons (https://github.com/colebemis/feather) & [Jelle-Dekkers](http://jelle-dekkers.deviantart.com/) (GPU icon)
 - **Weather Icons** - Climacons (http://adamwhitcroft.com/climacons/)
