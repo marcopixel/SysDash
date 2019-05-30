@@ -63,7 +63,7 @@ You can also request new features and help them develop by joining the discussio
 #### [Click here to get to the open issues](https://github.com/MarcoPixel/SysDash/issues).
 
 ### Credits
-- **Rainmeter Skin** - **[@marcopixel](https://github.com/marcopixel) 
+- **Rainmeter Skin** - **[@marcopixel]**(https://github.com/marcopixel) 
 - **HWiNFO Plugin** - stangowner (https://www.hwinfo.com/forum/Thread-Rainmeter-plug-in-for-HWiNFO-3-2)
 - **Google Play Music Desktop Player Plugin** - **[@tjhrulz](https://github.com/tjhrulz/GPMDP-Plugin)**
 - **WebNowPlaying Plugin** - **[@tjhrulz](https://github.com/tjhrulz/WebNowPlaying)**
