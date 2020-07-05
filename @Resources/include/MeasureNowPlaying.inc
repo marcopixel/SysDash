@@ -55,3 +55,22 @@ Plugin=NowPlaying
 PlayerName=#PlayerName#
 PlayerType=Progress
 UpdateDivider=10
+
+[MeasureRating]
+Measure=Plugin
+Plugin=NowPlaying
+PlayerName=#PlayerName#
+PlayerType=Rating
+UpdateDivider=50
+IfCondition=MeasureRating = 0
+IfTrueAction=[!SetOption "MeterRatingStar1" "GreyScale" "1"][!SetOption "MeterRatingStar2" "GreyScale" "1"][!SetOption "MeterRatingStar3" "GreyScale" "1"][!SetOption "MeterRatingStar4" "GreyScale" "1"][!SetOption "MeterRatingStar5" "GreyScale" "1"]
+IfCondition2=MeasureRating = 1
+IfTrueAction2=[!SetOption "MeterRatingStar1" "GreyScale" "0"][!SetOption "MeterRatingStar2" "GreyScale" "1"][!SetOption "MeterRatingStar3" "GreyScale" "1"][!SetOption "MeterRatingStar4" "GreyScale" "1"][!SetOption "MeterRatingStar5" "GreyScale" "1"]
+IfCondition3=MeasureRating = 2
+IfTrueAction3=[!SetOption "MeterRatingStar1" "GreyScale" "0"][!SetOption "MeterRatingStar2" "GreyScale" "0"][!SetOption "MeterRatingStar3" "GreyScale" "1"][!SetOption "MeterRatingStar4" "GreyScale" "1"][!SetOption "MeterRatingStar5" "GreyScale" "1"]
+IfCondition4=MeasureRating = 3
+IfTrueAction4=[!SetOption "MeterRatingStar1" "GreyScale" "0"][!SetOption "MeterRatingStar2" "GreyScale" "0"][!SetOption "MeterRatingStar3" "GreyScale" "0"][!SetOption "MeterRatingStar4" "GreyScale" "1"][!SetOption "MeterRatingStar5" "GreyScale" "1"]
+IfCondition5=MeasureRating = 4
+IfTrueAction5=[!SetOption "MeterRatingStar1" "GreyScale" "0"][!SetOption "MeterRatingStar2" "GreyScale" "0"][!SetOption "MeterRatingStar3" "GreyScale" "0"][!SetOption "MeterRatingStar4" "GreyScale" "0"][!SetOption "MeterRatingStar5" "GreyScale" "1"]
+IfCondition6=MeasureRating = 5
+IfTrueAction6=[!SetOption "MeterRatingStar1" "GreyScale" "0"][!SetOption "MeterRatingStar2" "GreyScale" "0"][!SetOption "MeterRatingStar3" "GreyScale" "0"][!SetOption "MeterRatingStar4" "GreyScale" "0"][!SetOption "MeterRatingStar5" "GreyScale" "0"]
